@@ -68,13 +68,6 @@
 
 ---
 
-## 🚀 Currently Working On
-
-- 🎮 Educational Groundwater Conservation Game (Web & Mobile)
-- 🧠 Indian Sign Language to Text/Speech Translation
-- 🤝 Mentoring Platform with calendar & video call integration
-
----
 
 ## 💬 Let's Connect!
 
